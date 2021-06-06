@@ -1,5 +1,7 @@
 [![Build Status](https://travis-ci.org/tech4242/spring-elastic-genie.svg?branch=master)](https://travis-ci.org/tech4242/spring-elastic-genie)
 
+https://towardsdatascience.com/a-hitchhikers-guide-to-spring-boot-elasticsearch-logstash-kibana-postgresql-and-docker-5602feaa9fd3
+
 # spring-elastic-genie
 
 ## Intro
